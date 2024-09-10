@@ -5,3 +5,5 @@
 - Project Setup: @John Gao
 - Other Algorithms (Eratosthenes and Atkin's): @JairusSW
 - Extra Features: @JairusSW
+
+Also on github at: https://github.com/JairusSW/CSC102/tree/Project01

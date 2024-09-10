@@ -4,7 +4,7 @@
  * I wrote the rest
  * This includes several algorithms to play around with
  * I also have this posted on my github:
- * https://github.com/JairusSW/CSC102/branch/Project01
+ * https://github.com/JairusSW/CSC102/tree/Project01
 */
 using System;
 using System.Collections.Generic;
