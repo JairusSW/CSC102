@@ -4,7 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace Project01
+namespace CSC102_Final_Project
 {
     internal static class Program
     {
@@ -16,7 +16,7 @@ namespace Project01
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new PrimeForm());
+            Application.Run(new Wordle());
         }
     }
 }

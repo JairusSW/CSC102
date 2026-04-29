@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace Project01.Properties
+namespace CSC102_Final_Project.Properties
 {
 
 
