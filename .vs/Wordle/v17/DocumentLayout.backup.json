@@ -1,0 +1,152 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Port\\Code\\C#\\Wordle\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D2EB6073-59A2-40D6-B5DA-B8F1666E8210}|Wordle.csproj|C:\\Users\\Port\\Code\\C#\\Wordle\\wordlegame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2EB6073-59A2-40D6-B5DA-B8F1666E8210}|Wordle.csproj|solutionrelative:wordlegame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2EB6073-59A2-40D6-B5DA-B8F1666E8210}|Wordle.csproj|C:\\Users\\Port\\Code\\C#\\Wordle\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2EB6073-59A2-40D6-B5DA-B8F1666E8210}|Wordle.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2EB6073-59A2-40D6-B5DA-B8F1666E8210}|Wordle.csproj|c:\\users\\port\\code\\c#\\wordle\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D2EB6073-59A2-40D6-B5DA-B8F1666E8210}|Wordle.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2EB6073-59A2-40D6-B5DA-B8F1666E8210}|Wordle.csproj|C:\\Users\\Port\\Code\\C#\\Wordle\\board.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2EB6073-59A2-40D6-B5DA-B8F1666E8210}|Wordle.csproj|solutionrelative:board.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2EB6073-59A2-40D6-B5DA-B8F1666E8210}|Wordle.csproj|C:\\Users\\Port\\Code\\C#\\Wordle\\effects.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2EB6073-59A2-40D6-B5DA-B8F1666E8210}|Wordle.csproj|solutionrelative:effects.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2EB6073-59A2-40D6-B5DA-B8F1666E8210}|Wordle.csproj|C:\\Users\\Port\\Code\\C#\\Wordle\\keyboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2EB6073-59A2-40D6-B5DA-B8F1666E8210}|Wordle.csproj|solutionrelative:keyboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2EB6073-59A2-40D6-B5DA-B8F1666E8210}|Wordle.csproj|C:\\Users\\Port\\Code\\C#\\Wordle\\letter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2EB6073-59A2-40D6-B5DA-B8F1666E8210}|Wordle.csproj|solutionrelative:letter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2EB6073-59A2-40D6-B5DA-B8F1666E8210}|Wordle.csproj|C:\\Users\\Port\\Code\\C#\\Wordle\\colors.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2EB6073-59A2-40D6-B5DA-B8F1666E8210}|Wordle.csproj|solutionrelative:colors.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Port\\Code\\C#\\Wordle\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\Port\\Code\\C#\\Wordle\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAAFsAAAAAAAAAAAAAAGkAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T22:06:14.577Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WordleGame.cs",
+              "DocumentMoniker": "C:\\Users\\Port\\Code\\C#\\Wordle\\WordleGame.cs",
+              "RelativeDocumentMoniker": "WordleGame.cs",
+              "ToolTip": "C:\\Users\\Port\\Code\\C#\\Wordle\\WordleGame.cs",
+              "RelativeToolTip": "WordleGame.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAgwEAAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T00:18:30.222Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Port\\Code\\C#\\Wordle\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\Port\\Code\\C#\\Wordle\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T22:06:00.746Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Colors.cs",
+              "DocumentMoniker": "C:\\Users\\Port\\Code\\C#\\Wordle\\Colors.cs",
+              "RelativeDocumentMoniker": "Colors.cs",
+              "ToolTip": "C:\\Users\\Port\\Code\\C#\\Wordle\\Colors.cs",
+              "RelativeToolTip": "Colors.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T00:16:40.196Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Board.cs",
+              "DocumentMoniker": "C:\\Users\\Port\\Code\\C#\\Wordle\\Board.cs",
+              "RelativeDocumentMoniker": "Board.cs",
+              "ToolTip": "C:\\Users\\Port\\Code\\C#\\Wordle\\Board.cs",
+              "RelativeToolTip": "Board.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T00:17:50.07Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Effects.cs",
+              "DocumentMoniker": "C:\\Users\\Port\\Code\\C#\\Wordle\\Effects.cs",
+              "RelativeDocumentMoniker": "Effects.cs",
+              "ToolTip": "C:\\Users\\Port\\Code\\C#\\Wordle\\Effects.cs",
+              "RelativeToolTip": "Effects.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAmwAYAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T00:13:58.596Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Keyboard.cs",
+              "DocumentMoniker": "C:\\Users\\Port\\Code\\C#\\Wordle\\Keyboard.cs",
+              "RelativeDocumentMoniker": "Keyboard.cs",
+              "ToolTip": "C:\\Users\\Port\\Code\\C#\\Wordle\\Keyboard.cs",
+              "RelativeToolTip": "Keyboard.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T00:18:06.429Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Letter.cs",
+              "DocumentMoniker": "C:\\Users\\Port\\Code\\C#\\Wordle\\Letter.cs",
+              "RelativeDocumentMoniker": "Letter.cs",
+              "ToolTip": "C:\\Users\\Port\\Code\\C#\\Wordle\\Letter.cs",
+              "RelativeToolTip": "Letter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T00:17:02.821Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

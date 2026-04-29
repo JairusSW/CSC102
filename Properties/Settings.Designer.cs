@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace CSC102_Final_Project.Properties
+namespace Wordle.Properties
 {
 
 
